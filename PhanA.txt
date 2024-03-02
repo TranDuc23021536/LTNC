@@ -1,0 +1,6 @@
+1.Lệnh này kiểm tra xem isA nếu grade nằm trong khoảng từ 90 - 100 thì là true, còn lại là false;
+sửa lỗi: bool isA = (grade >= 90 && grade <= 100);
+2.x = 0
+3.Vì 2^32 vượt quá giá trị của kiểu dữ liệu int
+4.true
+5.code chạy lỗi
